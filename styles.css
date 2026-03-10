@@ -42,7 +42,7 @@ footer {
     background-color: #333;
     color: white;
     text-align: center;
-    padding: 10px;
+    padding: 0px;
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -60,8 +60,9 @@ a:hover {
     text-decoration: underline;
 }
 
-main a[href^="mailto:"] {
+main a[href^="leaphirinyane@gmail.com"] {
     color: #ff5722;
     font-weight: bold;
 }
+
 
