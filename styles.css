@@ -45,6 +45,8 @@ footer {
     padding: 20px;
     position: fixed;
     bottom: 0;
+    left: 0;
+
     width: 100%;
 }
 p {
@@ -64,6 +66,7 @@ main a[href^="leaphirinyane@gmail.com"] {
     color: #ff5722;
     font-weight: bold;
 }
+
 
 
 
